@@ -1,0 +1,13 @@
+.container{
+    display:grid
+
+}
+
+.dashboard{
+    grid-area: dashboard;
+    display:flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+
+}
